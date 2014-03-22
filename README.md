@@ -1,4 +1,4 @@
-iOS-SDK
+ZenPrint-iOS-Client
 =======
 
-iOS SDK for Zenprint REST API
+iOS Client for Zenprint REST API
